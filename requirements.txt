@@ -1,7 +1,5 @@
 pandas
 numpy
-pickle
 scikit-learn
 streamlit
-webbrowser
-warnings
+
