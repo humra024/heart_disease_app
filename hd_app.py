@@ -58,19 +58,58 @@ def main():
     # 'ca':2,
     # # 'thal':3
     
-    age = st.text_input("Age","")
-    sex = st.text_input("Sex")
-    cp = st.text_input("Chest Pain Type","")
-    trestbps = st.text_input("Trestbps","")
-    chol = st.text_input("Cholestrol","")
-    fbs = st.text_input("FBS","")
-    restecg = st.text_input("RestECG","")
-    thalach = st.text_input("Thalach","")
-    exang = st.text_input("Exange","")
-    oldpeak = st.text_input("Oldpeak","")
-    slope = st.text_input("Slope","")
-    ca = st.text_input("CA","")
-    thal = st.text_input("Thal","")
+    
+    age = st.text_input("Age",placeholder="Enter age")
+    sex = st.selectbox("Sex",("Female","Male"))
+    if sex=="Female":
+        sex=0
+    else:
+        sex=1
+    cp = st.selectbox("Chest Pain Type",("Typical Angina","Atypical Angina","Non Anginal Pain","Asymptomatic"))
+    if cp=="Typical Angina":
+        cp=0
+    elif cp=="Atypical Angina":
+        cp=1
+    elif cp=="Non Anginal Pain":
+        cp=2
+    elif cp=="Asymptomatic":
+        cp=3
+    trestbps = st.number_input("Resting Blood Pressure (mmHg)",min_value=90,max_value=200)
+    chol = st.number_input("Cholestrol (mg/dL)",min_value=120,max_value=570)
+    fbs = st.selectbox("Fasting Blood Sugar",("Non-Diabetic","Diabetic"))
+    if fbs=="Non-Diabetic":
+        fbs=0
+    else:
+        fbs=1
+    restecg = st.selectbox("Resting Electrocardiographic Results",("Normal","Abnormal ST-T wave","Left Ventricular Hypertrophy"))
+    if restecg=="Normal":
+        restecg=0
+    elif restecg=="Abnormal ST-T wave":
+        restecg=1
+    else:
+        restecg=2
+    thalach = st.number_input("Maximum Heart Rate (bpm)",70,210)
+    exang = st.selectbox("Exercise Induced Angina",("False","True"))
+    if exang=="False":
+        exang=0
+    else:
+        exang=1
+    oldpeak = st.number_input("ST Depression Induced by Exercise Relative to Rest",0.0,7.0)
+    slope = st.selectbox("Slope of the Peak Exercise ST Segment",('Upsloping','Horizontal','Downsloping'))
+    if slope=="Upsloping":
+        slope=0
+    elif slope=="Horizontal":
+        slope=1
+    else:
+        slope=2
+    ca = st.selectbox("Number of Major Vessels (0-3) Colored by Flourosopy",(0,1,2,3,4))
+    thal = st.selectbox("Thallium Scintigraphy",("Normal","Fixed","Reversible"))
+    if thal=="Normal":
+        thal=1
+    elif thal=="Fixed":
+        thal=2
+    elif thal=="Reversible":
+        thal=3
     
     safe_html="""  
       <div style="background-color:#F4D03F;padding:10px >
