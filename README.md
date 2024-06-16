@@ -9,13 +9,13 @@ exploratory data analysis.
 Computed and deployed a prediction model utilizing Python's Sklearn, SciPy library and Streamlit
 framework, achieving a 92% accuracy in predicting heart disease cases.
 
-# app setup steps-
-# 1. install python in desktop.
-# 2. install python and jupyter notebook ext in vs code.
-# 3. set up virtual Environment (mac): python3 -m venv <name>
-#    set up virtual Environment (mac): python -m venv <name>
-#    Activate ve. by killing terminal and opening new terminal (cmd)
-# 4. install libraries using command: pip install <library name>
-# 5. import the libraries (pandas, numpy, scikit-learn, seaborn, pickle, joblib...) in Code 
-# 6. To run python file: python filename.py
-# 7. To run streamlit app: streamlit run filename.py
+app setup steps-
+1. install python in desktop.
+2. install python and jupyter notebook ext in vs code.
+3. set up virtual Environment (mac): python3 -m venv <name>
+   set up virtual Environment (mac): python -m venv <name>
+   Activate ve. by killing terminal and opening new terminal (cmd)
+4. install libraries using command: pip install <library name>
+5. import the libraries (pandas, numpy, scikit-learn, seaborn, pickle, joblib...) in Code 
+6. To run python file: python filename.py
+7. To run streamlit app: streamlit run filename.py
