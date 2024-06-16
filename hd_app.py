@@ -37,12 +37,12 @@ def main():
     """
     st.markdown(html_temp, unsafe_allow_html=True)
     
-    url = 'https://public.tableau.com/shared/MB93XXTDN?:display_count=n&:origin=viz_share_link'
+    #url = 'https://public.tableau.com/shared/MB93XXTDN?:display_count=n&:origin=viz_share_link'
 
-    if st.button('Heart Disease Dashboard'):
+    #if st.button('Heart Disease Dashboard'):
         # webbrowser.open_new_tab(url)
-        link = 'https://public.tableau.com/shared/MB93XXTDN?:display_count=n&:origin=viz_share_link'
-        st.markdown(link, unsafe_allow_html=True)
+    link = 'https://public.tableau.com/shared/MB93XXTDN?:display_count=n&:origin=viz_share_link'
+    st.markdown(link, unsafe_allow_html=True)
     
     # 'age':52,
     # 'sex':1,
