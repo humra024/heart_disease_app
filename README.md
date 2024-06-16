@@ -9,7 +9,7 @@ exploratory data analysis.
 Computed and deployed a prediction model utilizing Python's Sklearn, SciPy library and Streamlit
 framework, achieving a 92% accuracy in predicting heart disease cases.
 
-app setup steps-
+App setup steps-
 1. install python in desktop.
 2. install python and jupyter notebook ext in vs code.
 3. set up virtual Environment (mac): python3 -m venv <name>
