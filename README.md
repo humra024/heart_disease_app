@@ -5,16 +5,16 @@ Executed thorough exploratory data analysis on a heart disease dataset, utilizin
 Matplotlib, and Seaborn libraries to identify the correlation between the most influential features
 resulting in a 20% improvement in the accuracy of future predictions.
 
-Designed an interactive dashboard using Tableau to visually present the findings from the
+-Designed an interactive dashboard using Tableau to visually present the findings from the
 exploratory data analysis.
 
 ![eda](https://github.com/user-attachments/assets/de2a29eb-bfb2-4373-89b8-7fa4998ec5d6)
 
-
-Computed and deployed a prediction model utilizing Python's Sklearn, SciPy library and Streamlit
+\n
+-Computed and deployed a prediction model utilizing Python's Sklearn, SciPy library and Streamlit
 framework, achieving a 92% accuracy in predicting heart disease cases.
-![Screenshot 2024-09-19 at 4 48 41 PM](https://github.com/user-attachments/assets/89aaae88-062f-4155-a9b4-5535dc82d7a1)
-![Screenshot 2024-09-19 at 4 49 16 PM](https://github.com/user-attachments/assets/83a1b680-8f60-4c03-a11d-e6f034dc22bd)
+![Screenshot 2024-09-19 at 4 52 10 PM](https://github.com/user-attachments/assets/cfd93d1a-1c0a-4681-a2c2-20bb3c922245)
+![Screenshot 2024-09-19 at 4 52 36 PM](https://github.com/user-attachments/assets/40d2021c-3c00-43ae-b972-58b9f404ce4a)
 
 \n
 App setup steps-
