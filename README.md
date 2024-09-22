@@ -16,7 +16,7 @@ exploratory data analysis.
 ![eda](https://github.com/user-attachments/assets/de2a29eb-bfb2-4373-89b8-7fa4998ec5d6)
 
 
--Computed and deployed a prediction model utilizing Python's Sklearn, SciPy library and Streamlit
+-Computed and deployed a prediction model utilizing Python's Sklearn, Pandas library and Streamlit
 framework, achieving a 92% accuracy in predicting heart disease cases.
 ![Screenshot 2024-09-19 at 4 52 10 PM](https://github.com/user-attachments/assets/cfd93d1a-1c0a-4681-a2c2-20bb3c922245)
 ![Screenshot 2024-09-19 at 4 55 53 PM](https://github.com/user-attachments/assets/8bcd44eb-c724-4082-a1ab-eb609583ab70)
