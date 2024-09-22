@@ -1,5 +1,7 @@
 # heart_disease_app
-link-https://heartdiseaseapp-mpdrr5y7l8dsakdtvmvnne.streamlit.app/
+App link: https://heartdiseaseapp-mpdrr5y7l8dsakdtvmvnne.streamlit.app/
+Presentation Report: 
+Heart-Disease-Prediction-and-EDA Repository: https://github.com/humra024/Heart-Disease-Prediction-and-EDA
 
 Executed thorough exploratory data analysis on a heart disease dataset, utilizing Python's Pandas,
 Matplotlib, and Seaborn libraries to identify the correlation between the most influential features
