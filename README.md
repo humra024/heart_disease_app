@@ -1,14 +1,14 @@
 # Heart_Disease_App
-Executed thorough exploratory data analysis on a heart disease dataset, utilizing Python's Pandas,
-Matplotlib, and Seaborn libraries to identify the correlation between the most influential features
-resulting in a 20% improvement in the accuracy of future predictions.
-
 Related Links: 
 1. App Link: https://heartdiseaseapp-mpdrr5y7l8dsakdtvmvnne.streamlit.app/
 2. Tableau Dashboard: https://public.tableau.com/shared/MB93XXTDN?:display_count=n&:origin=viz_share_link
 3. Presentation Report: https://github.com/humra024/heart_disease_app/blob/main/heart%20disease%20analysis%20report.pdf
 4. Heart-Disease-Prediction-and-EDA Github Repository: https://github.com/humra024/Heart-Disease-Prediction-and-EDA
 
+
+-Executed thorough exploratory data analysis on a heart disease dataset, utilizing Python's Pandas,
+Matplotlib, and Seaborn libraries to identify the correlation between the most influential features
+resulting in a 20% improvement in the accuracy of future predictions.
 
 -Designed an interactive dashboard using Tableau to visually present the findings from the
 exploratory data analysis.
