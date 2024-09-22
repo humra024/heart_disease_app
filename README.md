@@ -1,7 +1,11 @@
-# heart_disease_app
-App link: https://heartdiseaseapp-mpdrr5y7l8dsakdtvmvnne.streamlit.app/
-Presentation Report: 
-Heart-Disease-Prediction-and-EDA Repository: https://github.com/humra024/Heart-Disease-Prediction-and-EDA
+# Heart_Disease_App
+App Link: https://heartdiseaseapp-mpdrr5y7l8dsakdtvmvnne.streamlit.app/
+
+Tableau Dashboard: https://public.tableau.com/shared/MB93XXTDN?:display_count=n&:origin=viz_share_link
+
+Presentation Report: https://github.com/humra024/heart_disease_app/blob/main/heart%20disease%20analysis%20report.pdf
+
+Heart-Disease-Prediction-and-EDA Github Repository: https://github.com/humra024/Heart-Disease-Prediction-and-EDA
 
 Executed thorough exploratory data analysis on a heart disease dataset, utilizing Python's Pandas,
 Matplotlib, and Seaborn libraries to identify the correlation between the most influential features
