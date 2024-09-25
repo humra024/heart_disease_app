@@ -45,7 +45,7 @@ def main():
     link = 'https://public.tableau.com/shared/MB93XXTDN?:display_count=n&:origin=viz_share_link'
     st.markdown(link, unsafe_allow_html=True)
 
-     st.subheader('Heart Disease Prediction:')
+    st.subheader('Heart Disease Prediction:')
     
     # 'age':52,
     # 'sex':1,
