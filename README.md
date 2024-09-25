@@ -1,4 +1,4 @@
-![heart-app](https://github.com/user-attachments/assets/967ace35-d916-4edf-8155-648bedf8938a)# Heart_Disease_App
+# Heart_Disease_App
 Related Links: 
 1. App Link: https://heartdiseaseapp-mpdrr5y7l8dsakdtvmvnne.streamlit.app/
 2. Tableau Dashboard: https://public.tableau.com/shared/MB93XXTDN?:display_count=n&:origin=viz_share_link
@@ -17,10 +17,12 @@ exploratory data analysis.
 
 
 -Computed and deployed a prediction model utilizing Python's Sklearn, Pandas library and Streamlit
-framework, achieving a 86% accuracy in predicting heart diseases
-![Screenshot 2024-09-26 at 2 31 27 AM](https://github.com/user-attachments/assets/756092c5-6f0c-4378-91dc-81abd797fa77)
-![Screenshot 2024-09-19 at 4 55 53 PM](https://github.com/user-attachments/assets/8bcd44eb-c724-4082-a1ab-eb609583ab70)
-![Screenshot 2024-09-19 at 4 52 36 PM](https://github.com/user-attachments/assets/40d2021c-3c00-43ae-b972-58b9f404ce4a)
+framework, achieving a 86% accuracy in predicting heart diseases.
+![Screenshot 2024-09-26 at 2 34 35 AM](https://github.com/user-attachments/assets/72288e5b-6e6a-4a98-a189-99eb69c7e91e)
+
+![Screenshot 2024-09-26 at 2 35 13 AM](https://github.com/user-attachments/assets/d24014fa-9e93-400d-a98a-51d9c25fdf46)
+
+![Screenshot 2024-09-26 at 2 35 33 AM](https://github.com/user-attachments/assets/ce75ef45-4b40-4228-9249-8a4c525b6260)
 
 
 App setup steps-
