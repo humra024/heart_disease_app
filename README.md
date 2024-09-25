@@ -17,8 +17,8 @@ exploratory data analysis.
 
 
 -Computed and deployed a prediction model utilizing Python's Sklearn, Pandas library and Streamlit
-framework, achieving a 86% accuracy in predicting heart dis
-![heart-app](https://github.com/user-attachments/assets/fe88b410-3783-4b16-ba39-88c566f75c65)
+framework, achieving a 86% accuracy in predicting heart diseases
+![Screenshot 2024-09-26 at 2 31 27 AM](https://github.com/user-attachments/assets/756092c5-6f0c-4378-91dc-81abd797fa77)
 ![Screenshot 2024-09-19 at 4 55 53 PM](https://github.com/user-attachments/assets/8bcd44eb-c724-4082-a1ab-eb609583ab70)
 ![Screenshot 2024-09-19 at 4 52 36 PM](https://github.com/user-attachments/assets/40d2021c-3c00-43ae-b972-58b9f404ce4a)
 
