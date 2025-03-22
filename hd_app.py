@@ -42,7 +42,7 @@ def main():
     #if st.button('Heart Disease Dashboard'):
     #    webbrowser.open_new_tab(url)
     st.subheader('Heart Disease Dashboard:')
-    link = 'https://public.tableau.com/shared/MB93XXTDN?:display_count=n&:origin=viz_share_link'
+    link = 'https://public.tableau.com/views/heart-diseasedashboard/HeartDiseaseDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link'
     st.markdown(link, unsafe_allow_html=True)
 
     st.subheader('Heart Disease Prediction:')
